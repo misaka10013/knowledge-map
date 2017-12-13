@@ -1,5 +1,5 @@
 # [学无止境📚](http://learn-anything.xyz/)
-
+其他语言：[English](https://github.com/misaka10013/knowledge-map)，
 
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/knowledge_map.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/knowledge_map)

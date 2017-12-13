@@ -1,5 +1,5 @@
-# [You can learn anything 📚](http://learn-anything.xyz/)
-
+# [You can learn anything 📚](http://learn-anything.xyz/)  
+other language：[简体中文](https://github.com/misaka10013/knowledge-map/blob/master/readme%20-zh.md)，
 
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/knowledge_map.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/knowledge_map)
